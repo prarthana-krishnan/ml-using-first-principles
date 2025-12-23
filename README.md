@@ -1,2 +1,2 @@
 # ml-using-first-principles
-Machine learning implemented from mathematical first principle
+Machine learning implemented from mathematical first principles
